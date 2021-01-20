@@ -35,7 +35,7 @@
          Check against "Make wallpaper visible behind text"
          Click Ok.
      (4) Click FILE>SAVE AS> Save the bgi file as BGinfo.bgi under the sycned BGinfo folder
-     (5) You will need following paths in the script
+     (5) You will need following paths to configure this solution
          i) %USERPROFILE%\[COMPANY]\[SITENAME-DOCUMENTS]\BGinfo\wallpaper.jpg
          ii) %USERPROFILE%\[COMPANY]\[SITENAME-DOCUMENTS]\BGinfo\BGinfo64.exe
          iii) %USERPROFILE%\[COMPANY]\[SITENAME-DOCUMENTS]\BGinfo\BGinfo64.bgi
