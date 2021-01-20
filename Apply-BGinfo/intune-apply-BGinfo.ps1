@@ -36,8 +36,9 @@
          Click Ok.
      (4) Click FILE>SAVE AS> Save the bgi file as BGinfo.bgi under the sycned BGinfo folder
      (5) You will need following paths in the script
-         i) %USERPROFILE%\[COMPANY]\[SITENAME-DOCUMENTS]\BGinfo\wallpaper.bgi
+         i) %USERPROFILE%\[COMPANY]\[SITENAME-DOCUMENTS]\BGinfo\wallpaper.jpg
          ii) %USERPROFILE%\[COMPANY]\[SITENAME-DOCUMENTS]\BGinfo\BGinfo64.exe
+         iii) %USERPROFILE%\[COMPANY]\[SITENAME-DOCUMENTS]\BGinfo\BGinfo64.bgi
 
  (C) Add the Azure AD security group of internal staff members to the site collection's Viewer SharePoint group.
 
